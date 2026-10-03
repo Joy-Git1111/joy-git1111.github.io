@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["MVH99FX2XS.AppJoy.Solve-The-Cube"],
+        "components": [
+          { "/": "/solve-the-cube-legal/open.html" }
+        ]
+      }
+    ]
+  }
+}
